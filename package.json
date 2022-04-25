@@ -1,0 +1,31 @@
+{
+  "name": "freecodecamp-solution",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Back End Development and APIs Solution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshvdev/freecodecamp-solution.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "solution",
+    "nodejs"
+  ],
+  "author": "Rakesh Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshvdev/freecodecamp-solution/issues"
+  },
+  "homepage": "https://github.com/rakeshvdev/freecodecamp-solution#readme",
+  "dependencies": {
+    "moment": "^2.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
